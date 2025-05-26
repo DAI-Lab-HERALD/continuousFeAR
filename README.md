@@ -2,8 +2,10 @@
 
 ## Quantifying Causal Responsibility in Continuous Spatial Interactions via Feasible Action Space Reduction
 
-Github repository for the publication titled,_"Quantifying Causal Responsibility in Continuous Spatial Interactions via Feasible Action Space Reduction"_
-by Ashwin George, Luciano Cavalcante Siebert, David A. Abbink and Arkady Zgonnikov
+Github repository for :
+>_"Quantifying Causal Responsibility in Continuous Spatial Interactions via Feasible Action Space Reduction"_
+by Ashwin George, Luciano Cavalcante Siebert, David A. Abbink and Arkady Zgonnikov.
+https://arxiv.org/abs/2505.17739
 
 We propose a Feasible Action-Space Reduction (FeAR) as a metric for causal responsibility in multi-agent spatial interactoins with continuous actions.
 
