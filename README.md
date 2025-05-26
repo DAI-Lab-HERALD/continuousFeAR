@@ -7,7 +7,7 @@ Github repository for :
 by Ashwin George, Luciano Cavalcante Siebert, David A. Abbink and Arkady Zgonnikov.
 https://arxiv.org/abs/2505.17739
 
-We propose a Feasible Action-Space Reduction (FeAR) as a metric for causal responsibility in multi-agent spatial interactoins with continuous actions.
+We propose Feasible Action-Space Reduction (FeAR) as a metric for causal responsibility in multi-agent spatial interactions with continuous actions.
 
 ---
 
